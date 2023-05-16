@@ -1,10 +1,9 @@
 [tool.poetry]
-name = "topic-recommender"
+name = "wsi-api"
 version = "0.1.0"
 description = ""
 authors = ["Seiichi Inoue <d35inou108@gmail.com>"]
 readme = "README.md"
-packages = [{include = "topic_recommender"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
