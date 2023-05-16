@@ -1,4 +1,4 @@
-# virtual env
-.venv/
-# poetry
+.env
 poetry.lock
+__pycache__/
+post.py
