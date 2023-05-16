@@ -1,6 +1,6 @@
 # wsi-api
 
-Topic extractor (using ChatGPT API) and recommender (FastAPI)
+An API for word sense induction using ChatGPT API and FastAPI
 
 ## Preparation
 
