@@ -13,6 +13,7 @@ You need to install `poetry`.
 
 ```sh
 $ poetry install --no-dev
+$ poetry shell
 ```
 
 ## Run
@@ -20,3 +21,5 @@ $ poetry install --no-dev
 ```sh
 $ uvicorn main:app --reload --port 8080
 ```
+
+You can try out the function in `http://127.0.0.1:8080/docs`
