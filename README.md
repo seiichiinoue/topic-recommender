@@ -1,6 +1,6 @@
 # wsi-api
 
-An API for word sense induction using ChatGPT API and FastAPI
+An API for word sense induction using OpenAI API and FastAPI
 
 ## Preparation
 
